@@ -1,17 +1,39 @@
-# dashboard_flutter
+# Dashboard Responsivo em Flutter
 
-A new Flutter project.
+Este é um projeto de um Dashboard responsivo desenvolvido em Flutter, que adapta seu layout automaticamente para três tamanhos de tela diferentes (Mobile, Tablet e Desktop) utilizando `MediaQuery` e widgets flexíveis.
 
-## Getting Started
+**Nome:** Gabriel Godoy Motta  
+**Turma:** Análise e Desenvolvimento de Sistemas (ADS) - 5º Fase
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Layouts (Screenshots)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### 1. Mobile (< 600px)
+*Layout em coluna única (1 card por linha).*
+![Screenshot Mobile](./Docs/mobile.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Tablet (600px - 900px)
+*Layout em grade (2 cards por linha).*
+![Screenshot Tablet](./Docs/tablet.png)
+
+### 3. Desktop (> 900px)
+*Layout em linha única (4 cards lado a lado).*
+![Screenshot Desktop](./Docs/desktop.png)
+
+---
+
+## Como executar o projeto
+
+Siga os passos abaixo para rodar o aplicativo na sua máquina:
+
+### Pré-requisitos
+* [Flutter SDK](https://docs.flutter.dev/get-started/install) instalado e configurado.
+* Um editor de código (como VS Code) com a extensão do Flutter instalada.
+* Um navegador web (Chrome/Edge) ou um emulador configurado.
+
+### Passos para execução
+
+1. **Clone o repositório** (caso esteja usando Git) ou baixe a pasta do projeto:
+   ```bash
+   git clone https://github.com/godoy220/DashBoard_Responsivo.git
