@@ -11,15 +11,15 @@ Este é um projeto de um Dashboard responsivo desenvolvido em Flutter, que adapt
 
 ### 1. Mobile (< 600px)
 *Layout em coluna única (1 card por linha).*
-![Screenshot Mobile](./Docs/mobile.png)
+![Screenshot Mobile](./Docs/Mobile.png)
 
 ### 2. Tablet (600px - 900px)
 *Layout em grade (2 cards por linha).*
-![Screenshot Tablet](./Docs/tablet.png)
+![Screenshot Tablet](./Docs/Tablet.png)
 
 ### 3. Desktop (> 900px)
 *Layout em linha única (4 cards lado a lado).*
-![Screenshot Desktop](./Docs/desktop.png)
+![Screenshot Desktop](./Docs/Desktop.png)
 
 ---
 
